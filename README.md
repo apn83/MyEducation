@@ -3,7 +3,7 @@ I created this using R Markdown and leaflet to show the places, I studied and wo
 
 ### Files:
 
-*.Rmd --> R markdown file
-*.R --> R code to generate map
-*.html --> Output of KnitR Rmd.
+Rmd --> R markdown file
+R --> R code to generate map
+html --> Output of KnitR Rmd.
 
