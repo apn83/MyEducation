@@ -7,5 +7,9 @@ Rmd --> R markdown file
 
 R --> R code to generate map
 
-html --> Output of KnitR Rmd
+Education*.html --> Output of KnitR Rmd
+
+Profile_map.html --> Output of R code
+
+
 
